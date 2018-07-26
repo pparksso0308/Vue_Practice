@@ -3,7 +3,7 @@
     <v-flex xs12>
       <v-text-field
         v-model= "keyword"
-        label= "검색어를 입력하세요"
+        label= "검색어를 입력하세요.."
         v-on:keyup.enter="passkeyword"
       ></v-text-field>
     </v-flex>
